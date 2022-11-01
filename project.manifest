@@ -1,10 +1,10 @@
 {
-    "packageUrl": "https://resources.win4games.com/m/",
+    "packageUrl": "https://rs.covid2019.vip/m/",
     "searchPaths": [],
     "assets": {
     },
-    "remoteVersionUrl": "https://resources.win4games.com/m/version.manifest",
+    "remoteVersionUrl": "https://rs.covid2019.vip/m/version.manifest",
     "version": "1.0.1",
     "engineVersion": "3.17",
-    "remoteManifestUrl": "https://resources.win4games.com/m/project.manifest"
+    "remoteManifestUrl": "https://rs.covid2019.vip/m/project.manifest"
 }

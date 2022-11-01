@@ -1,10 +1,10 @@
 {
-    "packageUrl": "http://192.168.50.117:3010/m/",
+    "packageUrl": "https://resources.win4games.com/m/",
     "searchPaths": [],
     "assets": {
     },
-    "remoteVersionUrl": "http://192.168.50.117:3010/m/version.manifest",
+    "remoteVersionUrl": "https://resources.win4games.com/m/version.manifest",
     "version": "1.0.1",
     "engineVersion": "3.17",
-    "remoteManifestUrl": "http://192.168.50.117:3010/m/project.manifest"
+    "remoteManifestUrl": "https://resources.win4games.com/m/project.manifest"
 }

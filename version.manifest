@@ -1,9 +1,9 @@
 {
-    "packageUrl": "https://raw.githubusercontent.com/kkk188/carofun/main/",
+    "packageUrl": "https://resources.win4games.com/m/",
     "searchPaths": [],
     "assets": {},
-    "remoteVersionUrl": "https://raw.githubusercontent.com/kkk188/carofun/main/version.manifest",
-    "version": "1.0.0",
+    "remoteVersionUrl": "https://resources.win4games.com/m/version.manifest",
+    "version": "1.0.1",
     "engineVersion": "3.17",
-    "remoteManifestUrl": "https://raw.githubusercontent.com/kkk188/carofun/main/project.manifest"
+    "remoteManifestUrl": "https://resources.win4games.com/m/project.manifest"
 }

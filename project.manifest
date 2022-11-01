@@ -1,10 +1,10 @@
 {
-    "packageUrl": "http://localhost:3010/m/",
+    "packageUrl": "http://192.168.50.117:3010/m/",
     "searchPaths": [],
     "assets": {
     },
-    "remoteVersionUrl": "http://localhost:3010/m/version.manifest",
+    "remoteVersionUrl": "http://192.168.50.117:3010/m/version.manifest",
     "version": "1.0.1",
     "engineVersion": "3.17",
-    "remoteManifestUrl": "http://localhost:3010/m/project.manifest"
+    "remoteManifestUrl": "http://192.168.50.117:3010/m/project.manifest"
 }

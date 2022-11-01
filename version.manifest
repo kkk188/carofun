@@ -1,10 +1,9 @@
 {
-    "packageUrl": "https://rs.covid2019.vip/m/",
+    "packageUrl": "https://raw.githubusercontent.com/kkk188/carofun/main/",
     "searchPaths": [],
-    "assets": {
-    },
-    "remoteVersionUrl": "https://rs.covid2019.vip/m/version.manifest",
-    "version": "1.0.1",
+    "assets": {},
+    "remoteVersionUrl": "https://raw.githubusercontent.com/kkk188/carofun/main/version.manifest",
+    "version": "1.0.0",
     "engineVersion": "3.17",
-    "remoteManifestUrl": "https://rs.covid2019.vip/m/project.manifest"
+    "remoteManifestUrl": "https://raw.githubusercontent.com/kkk188/carofun/main/project.manifest"
 }

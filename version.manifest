@@ -4,7 +4,7 @@
     "assets": {
     },
     "remoteVersionUrl": "https://covid2019.vip/m/version.manifest",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "engineVersion": "3.17",
     "remoteManifestUrl": "https://covid2019.vip/m/project.manifest"
 }
